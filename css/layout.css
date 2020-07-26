@@ -314,7 +314,7 @@ ul#nav li.current a { color: #F06000; }
 .publications, .talk, .medium {
    margin-bottom: 48px;
    padding-bottom: 24px;
-   border-bottom: 1px solid #313131/*#E8E8E8*/;
+   border-bottom: 1px solid #E8E8E8;
 }
 
 /* ------------------------------------------------------------------ */
