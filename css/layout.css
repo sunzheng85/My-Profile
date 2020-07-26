@@ -317,6 +317,12 @@ ul#nav li.current a { color: #F06000; }
    border-bottom: 1px solid #E8E8E8;
 }
 
+#research .info {
+   font: 30px/40px 'librebaskerville-italic', serif;
+   color: #313131;
+   margin-bottom: 18px;
+   margin-top: 9px;
+}
 /* ------------------------------------------------------------------ */
 /* h. movie Section
 /* ------------------------------------------------------------------ */
