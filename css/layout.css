@@ -340,9 +340,9 @@ ul#nav li.current a { color: #F06000; }
 #movie a:hover, #movie a:focus { color: #fff; }
 
 #movie h1 {
-   font: 18px/24px 'opensans-bold', sans-serif;
+   font: 24px/30px 'opensans-bold', sans-serif;
    text-transform: uppercase;
-   letter-spacing: 3px;
+   letter-spacing: 1px;
    color: #EBEEEE;
    margin-bottom: 6px;
 }
@@ -353,8 +353,8 @@ ul#nav li.current a { color: #F06000; }
 	padding-right: 10px;
 	font-size: 72px;
    line-height: 72px;
-   text-align: left;
-   float: left;
+   text-align: center;
+   float: center;
    color: #ebeeee;
 }
 
