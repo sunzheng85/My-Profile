@@ -432,6 +432,10 @@ ul#nav li.current a { color: #F06000; }
    padding-bottom: 6px;
 }
 
+.publications, .oral talk, .medium coveragem, .service {
+   border-bottom: 1px solid #E8E8E8;
+}
+
 
 /* research Content */
 #research-wrapper .columns { margin-bottom: 36px; }
