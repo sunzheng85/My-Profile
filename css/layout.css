@@ -346,17 +346,6 @@ ul#nav li.current a { color: #F06000; }
    color: #EBEEEE;
    margin-bottom: 6px;
 }
-#movie h1 span { display: none; }
-#movie h1:before {
-   font-family: 'FontAwesome';
-   content: "\f0e0";
-	padding-right: 10px;
-	font-size: 72px;
-   line-height: 72px;
-   text-align: center;
-   float: center;
-   color: #ebeeee;
-}
 
 #movie h4 {
    font: 16px/24px 'opensans-bold', sans-serif;
