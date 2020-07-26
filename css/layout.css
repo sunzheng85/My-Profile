@@ -311,7 +311,7 @@ ul#nav li.current a { color: #F06000; }
 #research .header-col { padding-top: 9px; }
 #research .main-col { padding-right: 10%; }
 
-.publications, .talk, .medium, .service {
+.publications, .talk, .medium {
    margin-bottom: 48px;
    padding-bottom: 24px;
    border-bottom: 1px solid #313131/*#E8E8E8*/;
